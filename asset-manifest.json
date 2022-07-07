@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/authorisation/static/css/main.e919ca5a.css",
-    "main.js": "/github.io/authorisation/static/js/main.0c4e7155.js",
-    "index.html": "/github.io/authorisation/index.html",
-    "main.e919ca5a.css.map": "/github.io/authorisation/static/css/main.e919ca5a.css.map",
-    "main.0c4e7155.js.map": "/github.io/authorisation/static/js/main.0c4e7155.js.map"
+    "main.css": "/authorisation/static/css/main.e919ca5a.css",
+    "main.js": "/authorisation/static/js/main.0c4e7155.js",
+    "index.html": "/authorisation/index.html",
+    "main.e919ca5a.css.map": "/authorisation/static/css/main.e919ca5a.css.map",
+    "main.0c4e7155.js.map": "/authorisation/static/js/main.0c4e7155.js.map"
   },
   "entrypoints": [
     "static/css/main.e919ca5a.css",
