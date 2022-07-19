@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Firebase Authorisation App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project provides user ability to authorise with the form. It uses integration with firebase to make authorisation and get the authorisation token. Authorised usser is able to see authorised screen and make a logout.
 
-## Available Scripts
+## Deployed
 
-In the project directory, you can run:
+You can see this app on GitHub Pages [Firebase Authorisation App](https://maryvelesyuk.github.io/authorisation/)
 
 ### `npm start`
 
