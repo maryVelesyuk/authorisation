@@ -6,4 +6,13 @@ This project provides user ability to authorise with the form. It uses integrati
 
 You can see this app on GitHub Pages [Firebase Authorisation App](https://maryvelesyuk.github.io/authorisation/)
 
+## First start
 
+To run this app you need to create .env.local file in root directory. file should containt folowing variables:
+REACT_APP_FIREBASE_API_KEY
+REACT_APP_FIREBASE_AUTH_DOMAIN
+REACT_APP_FIREBASE_PROJECT_ID
+REACT_APP_FIREBASE_STORAGE_BUCKET
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID
+REACT_APP_FIREBASE_APP_ID
+You can generate them on [Firebae](firebase.google.com).
